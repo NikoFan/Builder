@@ -1,0 +1,16 @@
+C:\Users\Олег\Desktop\Тестовое\Builder\Builder\BuilderPattern\BuilderPattern\bin\Debug\BuilderPattern.exe.config
+C:\Users\Олег\Desktop\Тестовое\Builder\Builder\BuilderPattern\BuilderPattern\bin\Debug\BuilderPattern.exe
+C:\Users\Олег\Desktop\Тестовое\Builder\Builder\BuilderPattern\BuilderPattern\bin\Debug\BuilderPattern.pdb
+C:\Users\Олег\Desktop\Тестовое\Builder\Builder\BuilderPattern\BuilderPattern\obj\Debug\BuilderPattern.csproj.AssemblyReference.cache
+C:\Users\Олег\Desktop\Тестовое\Builder\Builder\BuilderPattern\BuilderPattern\obj\Debug\MainWindow.g.cs
+C:\Users\Олег\Desktop\Тестовое\Builder\Builder\BuilderPattern\BuilderPattern\obj\Debug\App.g.cs
+C:\Users\Олег\Desktop\Тестовое\Builder\Builder\BuilderPattern\BuilderPattern\obj\Debug\BuilderPattern_MarkupCompile.cache
+C:\Users\Олег\Desktop\Тестовое\Builder\Builder\BuilderPattern\BuilderPattern\obj\Debug\BuilderPattern_MarkupCompile.lref
+C:\Users\Олег\Desktop\Тестовое\Builder\Builder\BuilderPattern\BuilderPattern\obj\Debug\App.baml
+C:\Users\Олег\Desktop\Тестовое\Builder\Builder\BuilderPattern\BuilderPattern\obj\Debug\MainWindow.baml
+C:\Users\Олег\Desktop\Тестовое\Builder\Builder\BuilderPattern\BuilderPattern\obj\Debug\BuilderPattern.g.resources
+C:\Users\Олег\Desktop\Тестовое\Builder\Builder\BuilderPattern\BuilderPattern\obj\Debug\BuilderPattern.Properties.Resources.resources
+C:\Users\Олег\Desktop\Тестовое\Builder\Builder\BuilderPattern\BuilderPattern\obj\Debug\BuilderPattern.csproj.GenerateResource.cache
+C:\Users\Олег\Desktop\Тестовое\Builder\Builder\BuilderPattern\BuilderPattern\obj\Debug\BuilderPattern.csproj.CoreCompileInputs.cache
+C:\Users\Олег\Desktop\Тестовое\Builder\Builder\BuilderPattern\BuilderPattern\obj\Debug\BuilderPattern.exe
+C:\Users\Олег\Desktop\Тестовое\Builder\Builder\BuilderPattern\BuilderPattern\obj\Debug\BuilderPattern.pdb
